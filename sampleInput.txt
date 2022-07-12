@@ -1,0 +1,3 @@
+testing for input on,,, path!!!
+
+this allows user to... use!!! ANY input file :D we want!! By reading the FiLE pATh from a SCANNER!!
